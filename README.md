@@ -79,17 +79,19 @@ All data is persisted using **text files**, without relying on a database.
 
 ---
 
+```markdown
 ## 🗂 Project Structure (Simplified)
-Bank-Management-System-CPP/
-│
-├── Source Files (.cpp)
-├── Header Files (.h)
-├── README.md
-├── LICENSE
-├── .gitignore
-├── Bank.vcxproj
-├── Bank.vcxproj.filters
 
+Bank-Management-System-CPP/  
+│  
+├── Source Files (.cpp)  
+├── Header Files (.h)  
+├── README.md  
+├── LICENSE  
+├── .gitignore  
+├── Bank.vcxproj  
+└── Bank.vcxproj.filters
+```
 
 ---
 
