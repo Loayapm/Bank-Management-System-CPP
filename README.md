@@ -138,6 +138,16 @@ Bank-Management-System-CPP/
 - Create a graphical user interface (GUI)
 
 ---
+## 🔐 Security Note (Educational Purpose)
+
+This project was developed **strictly for educational purposes**.
+
+Password hashing is implemented using `std::hash` combined with a salt to demonstrate the **concept** of hashing and credential protection.  
+However, this approach is **not secure** and **must not** be used in real-world or production systems.
+
+In real applications, secure cryptographic algorithms such as **bcrypt**, **PBKDF2**, **Argon2**, or **scrypt** should be used, along with proper key stretching and security practices.
+
+This implementation exists solely to support learning objectives related to OOP design and system structure.
 
 ## 👤 Author
 
