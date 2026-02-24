@@ -129,7 +129,7 @@ Bank-Management-System-CPP/
 - Implementing permission-based access control
 - File handling and logging mechanisms
 - Using Git and GitHub for version control
-
+- Understanding basic password hashing concepts and recognizing the limitations of non-cryptographic hashing in real-world systems
 ---
 
 ## 🚀 Possible Future Improvements
